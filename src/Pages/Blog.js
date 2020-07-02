@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import CarouselBox from "../Components/CarouselBox";
 import { Container, Media, Row, Col, ListGroup, Card } from "react-bootstrap";
 
 export default class Blog extends Component {
@@ -13,6 +12,7 @@ export default class Blog extends Component {
                 width={150}
                 height={150}
                 className="mr-3"
+                alt="img"
                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1"
               />
               <Media.Body>
@@ -25,6 +25,7 @@ export default class Blog extends Component {
                 width={150}
                 height={150}
                 className="mr-3"
+                alt="img"
                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1"
               />
               <Media.Body>
@@ -37,6 +38,7 @@ export default class Blog extends Component {
                 width={150}
                 height={150}
                 className="mr-3"
+                alt="img"
                 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Dk_c6Kwi4JaIxYDlvE3NfQHaHa%26pid%3DApi&f=1"
               />
               <Media.Body>

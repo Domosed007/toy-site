@@ -8,7 +8,7 @@ import {
   Button,
 } from "react-bootstrap";
 import logo from "./logo192.png";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import Home from "../Pages/Home";
 import About from "../Pages/About";
